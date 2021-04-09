@@ -82,7 +82,7 @@
 	}
 
 	.container {
-		width: 35em;
+		width: 40em;
 	}
 
 	@media screen and (max-width: 1680px) {
@@ -106,7 +106,7 @@
 		}
 
 		.container {
-			width: 35em;
+			width: 40em;
 		}
 
 	}
@@ -2731,7 +2731,7 @@
 			background: rgba(255, 255, 255, 0.95);
 			bottom: 0;
 			left: 50%;
-			margin-left: -17.5em;
+			margin-left: -20em;
 			padding: 2.5em;
 			position: absolute;
 		}

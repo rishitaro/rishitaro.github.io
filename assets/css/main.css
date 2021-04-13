@@ -2209,7 +2209,8 @@
 		.image.fit {
 			display: block;
 			margin: auto;
-			width: 100%;         
+			padding-bottom: 2em;
+			width: 80%;         
 		}
 
 			.image.fit img {
@@ -2997,6 +2998,7 @@
 			button,
 			.button {
 				padding: 0;
+				width: 8em;
 			}
 
 				input[type="submit"].icon,

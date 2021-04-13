@@ -14,23 +14,7 @@ var personal_info = {
             "title": "software development engineer",
             "location": "seattle, WA",
             "start_date": "july 2019"
-        },
-        "past": [
-            {
-                "company": "groupon",
-                "title": "software development engineering intern",
-                "location": "palo alto, CA",
-                "start_date": "june 2018",
-                "end_date": "september 2018"
-            },
-            {
-                "company": "IDS @ ATT",
-                "title": "software and QA intern",
-                "location": "los angeles, CA",
-                "start_date": "june 2017",
-                "end_date": "november 2017"
-            }
-        ]
+        }
     },
     "locations": {
         "current": "seattle, WA",

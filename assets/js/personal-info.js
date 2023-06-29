@@ -10,11 +10,16 @@ var personal_info = {
     },
     "work": {
         "current": {
-            "company": "groupon",
-            "title": "software development engineer",
+            "company": "spotify",
+            "title": "software engineer II",
             "location": "seattle, WA",
-            "start_date": "july 2019"
-        }
+            "start_date": "october 2022"
+        },
+        "previous": [{
+            "company": "groupon",
+            "location": "seattle, WA",
+            "dates": "july 2019 → october 2022",
+        }]
     },
     "locations": {
         "current": "seattle, WA",
